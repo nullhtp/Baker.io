@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baker.io", "Baker.io\Baker.io.csproj", "{2F0CBF5A-199D-4B8F-AC73-16741392BE73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox", "Sandbox\Sandbox.csproj", "{23B46BC4-844D-45BB-9578-4E496057CE60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F0CBF5A-199D-4B8F-AC73-16741392BE73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F0CBF5A-199D-4B8F-AC73-16741392BE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F0CBF5A-199D-4B8F-AC73-16741392BE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F0CBF5A-199D-4B8F-AC73-16741392BE73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23B46BC4-844D-45BB-9578-4E496057CE60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B46BC4-844D-45BB-9578-4E496057CE60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B46BC4-844D-45BB-9578-4E496057CE60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B46BC4-844D-45BB-9578-4E496057CE60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
